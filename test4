@@ -142,7 +142,7 @@ const data = {
         _0x1c668f = _0x3726c3.studiableContainerId,
         _0x9de186 = await fetch('https://quizlet.com/' + _0x1c668f)
       if (_0x9de186.status !== 200) {
-        throw new Error('This game is private')
+        throw new Error('Detta spelet är privat')
       }
       const _0x53ada6 = await _0x9de186.text(),
         _0xcc0c95 = new DOMParser(),
