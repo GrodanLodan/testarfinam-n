@@ -1,3 +1,14 @@
+var svar = prompt ("Lösenord")
+  if (svar ==kuksugarna)
+  {
+alert("Korrekt")
+     }
+        if (svar ==<)
+  {
+    alert("FEL")
+        alert("FEL")
+            alert("FEL")
+
 const data = {
     checkpoint: {
       question:
