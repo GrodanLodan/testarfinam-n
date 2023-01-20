@@ -1,16 +1,3 @@
-var svar = prompt ("Lösenord")
-  if (svar ==kuksugarna)
-  {
-alert("Korrekt")
-     }
-        if (svar ==något)
-  {
-    alert("FEL")
-        alert("FEL")
-            alert("FEL")
-
-}
-
 const data = {
     checkpoint: {
       question:
