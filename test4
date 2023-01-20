@@ -9,6 +9,8 @@ alert("Korrekt")
         alert("FEL")
             alert("FEL")
 
+}
+
 const data = {
     checkpoint: {
       question:
