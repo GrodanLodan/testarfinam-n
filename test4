@@ -179,7 +179,7 @@ const data = {
     try {
       const _0xa42c1b = await main()
       console.log(
-        '%cAnswers downloaded successfully',
+        '%cAllt fungerar som det ska!',
         'color: #50C878; font-size: 22px'
       )
       info()
