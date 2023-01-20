@@ -160,7 +160,7 @@ const data = {
             .alternate.alternate.alternate.memoizedProps.children[2].props
             .children.props.terms
       if (!_0x3e6f5a) {
-        throw new Error("You aren't in Quizlet game")
+        throw new Error("Du är ju inte i ett spel för helvete")
       }
       const _0x4e2244 = _0x3e6f5a['_tail'].array,
         _0x21f8f5 = _0x4e2244.map((_0x25b5e8) => {
