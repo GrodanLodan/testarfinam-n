@@ -1,3 +1,6 @@
+
+alert("klicka ok för att fortsätta din bög")
+
 const data = {
     checkpoint: {
       question:
