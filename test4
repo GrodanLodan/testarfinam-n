@@ -111,22 +111,22 @@ const data = {
   },
   info = () => {
     console.log(
-      '%cCheat made by Quizit',
+      '%cGjord Av Ruben',
       'color: #6366f1; font-size: 16px; font-weight: bold;'
     )
     console.log(
-      '%cYou can visit our website for other cheats: https://gurka.se/',
+      '%cGustav gillar stora svarta män',
       'font-size: 14px;'
     )
     console.log(
-      '%cYou can also join our Discord: https://discord.gg/dinmamma',
+      '%cPrivat Gjord För Kuksugarna',
       'font-size: 14px;'
     )
   },
   main = async () => {
     console.clear()
     if (!(window.Quizlet && window.Quizlet.liveGameStudentData)) {
-      throw new Error("You aren't in Quizlet game")
+      throw new Error("Du är ju inte i ett spel för helvete")
     }
     if (Quizlet.liveGameStudentData.isPlayingCheckpoint) {
       const _0x22a5a8 = Quizlet.liveGameStudentData.checkpointToken,
