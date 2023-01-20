@@ -3,7 +3,7 @@ var svar = prompt ("Lösenord")
   {
 alert("Korrekt")
      }
-        if (svar ==<något)
+        if (svar ==något)
   {
     alert("FEL")
         alert("FEL")
