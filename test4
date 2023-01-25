@@ -1,5 +1,4 @@
-
-  var svar = prompt ("Lösenord?")
+var svar = prompt ("Lösenord?")
   if (svar ==22)
   {
     var polis = {x:100,y:100, fart:10};
