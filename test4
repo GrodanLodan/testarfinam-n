@@ -1,4 +1,4 @@
-<script src="https://koda.nu/simple.js">
+</script>
 
  
   var svar = prompt ("Lösenord?")
@@ -213,3 +213,4 @@ start()
 
 
     }
+</script>
