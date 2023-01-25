@@ -1,3 +1,5 @@
+<script src="https://koda.nu/simple.js">
+
   var svar = prompt ("Lösenord?")
   if (svar ==kuksugarna)
   {
@@ -203,3 +205,4 @@ start()
   {
     alert("FEL")
    
+</script>
