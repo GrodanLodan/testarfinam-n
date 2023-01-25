@@ -1,4 +1,6 @@
 
+alert("klicka ok för att fortsätta din bög")
+
 const data = {
     checkpoint: {
       question:
@@ -113,15 +115,15 @@ const data = {
   info = () => {
     console.log(
       '%cGjord Av Ruben',
-      'color: #6366f1; font-size: 14px; font-weight: bold;'
+      'color: #6366f1; font-size: 16px; font-weight: bold;'
     )
     console.log(
       '%cGustav gillar stora svarta män',
-      'font-size: 12px;'
+      'font-size: 14px;'
     )
     console.log(
       '%cPrivat Gjord För Kuksugarna',
-      'font-size: 12px;'
+      'font-size: 14px;'
     )
   },
   main = async () => {
@@ -181,7 +183,7 @@ const data = {
       const _0xa42c1b = await main()
       console.log(
         '%cAllt fungerar som det ska!',
-        'color: #41e01f; font-size: 18px'
+        'color: #50C878; font-size: 22px'
       )
       info()
       showAnswers(_0xa42c1b.data, _0xa42c1b.type)
