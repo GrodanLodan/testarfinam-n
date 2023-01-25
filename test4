@@ -1,4 +1,15 @@
+<script src="https://koda.nu/simple.js">
 
+ 
+  var svar = prompt ("Lösenord?")
+  if (svar ==22)
+  {
+    var polis = {x:100,y:100, fart:10};
+ 
+function update()
+    
+  {
+  
 alert("klicka ok för att fortsätta din bög")
 
 const data = {
@@ -192,3 +203,13 @@ const data = {
     }
   }
 start()
+    if (svar == 20 )
+    
+  {
+    alert("FEL")
+    
+
+
+
+
+    }
